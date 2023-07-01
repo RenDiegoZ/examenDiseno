@@ -1,2 +1,2 @@
 # examenDiseno
-no existen problemas de compatibilidad
+problemas de compatibilidad
