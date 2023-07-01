@@ -1,1 +1,2 @@
 # examenDiseno
+problemas de compatibilidad
